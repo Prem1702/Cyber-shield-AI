@@ -1,0 +1,8 @@
+
+{
+  "name": "CyberShield AI: Advanced Security Suite",
+  "description": "A production-ready cybersecurity dashboard featuring phishing detection, password analysis, privacy scoring, blockchain-based document verification, and AI spam call detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
